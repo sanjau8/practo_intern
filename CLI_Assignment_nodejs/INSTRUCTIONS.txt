@@ -1,0 +1,11 @@
+========== NODEJS SCRIPT TO FETCH WIKIPEDIA LINKS BASED ON KEYWORD===============
+
+
+
+DIRECTIONS TO USE
+
+1. open terminal and move to directory with app.js
+2. run npm install and wait until all dependencies gets installed
+3. node app -m [--mode] 0 | 1 | cli | interactive [-v | --value] [SEARCHTERM]
+4. [-v | --value] is mandatory for mode [0 | cli]
+5. if mode [1 | interactive] is chosen, a prompt to enter search term will be asked
