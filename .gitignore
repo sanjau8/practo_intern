@@ -5,3 +5,5 @@ Assignments/RemoteSystemsTempFiles
 Assignments/*.xlsx
 docForDbApi.txt
 Assignments/*.pdf
+CLI_Assignment_nodejs/node_modules/
+materials/
